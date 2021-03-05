@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>HTML Trial</title>
+	</head>
+	<body>
+		<h1 align="center"><font color="#9400D3">HTML Practice</font></h1>
+		<h3 align="center"><font color="#0000CD">Learning How To Code HTML</font></h3>
+		<p>Welcome to My <b>AWESOME</b> webpage. I am writing this page using a notepad and plain old HTML code.</p>
+		<p>By learning HTML, I'll be able to create web pages <strong><font color="#FF0000">like a pro!!</font></strong></p>
+		<p>Here's what I've learned:</p>
+		<ul>
+			<li>How to use HTML tags</li>
+			<li>How to use HTML colors</li>
+			<li>How to create lists</li>
+		</ul>
+		<h1 align="center"><font color="#9400D3">THANK YOU</font></h1>
+	</body>
+</html>
